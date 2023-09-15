@@ -1,0 +1,2 @@
+# javascript_practice_project
+inflearn(javascript_project_practice)
