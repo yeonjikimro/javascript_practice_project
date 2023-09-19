@@ -48,7 +48,6 @@ const addItem = (todo) => {
   }
 };
 
-
 const handler = (event) => {
   event.preventDefault();
 
