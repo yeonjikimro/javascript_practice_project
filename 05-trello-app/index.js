@@ -1,2 +1,9 @@
-// 💡 https://github.com/erumcoding/js-101-part-1
-// 👉 이 아래 코드를 작성하세요.
+const form = document.querySelector('form');
+
+const createTodo = (event) => {
+    event.preventDefault();
+
+    const input = document.querySelector('input');
+}
+
+form.addEventListener('submit', createTodo);
